@@ -37,7 +37,7 @@ namespace SD71Challenge2
             }
             else
             {
-                Console.WriteLine("Please enter a valid 24 hour time.");
+                Console.WriteLine("Please enter a valid 24 hour time by just using hours, do not include minutes.");
             }
         }
     }
